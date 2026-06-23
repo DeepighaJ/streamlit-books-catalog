@@ -299,4 +299,7 @@ Potential future enhancements:
 
 ⭐ If you find this project helpful, please consider giving it a star on GitHub!
 
+Author: Deepigha Japamony
+
 [🔝 Back to top](#-streamlit-books-catalog)
+

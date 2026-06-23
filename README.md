@@ -120,7 +120,7 @@ streamlit-books-catalog/
 6. Set main file: `src/app.py`
 7. Click **Deploy**
 
-Your app will be live at: `https://<your-username>-streamlit-books-catalog.streamlit.app`
+Your app will be live at: `https://app-books-catalog-djdeploy.streamlit.app/`
 
 ### Option 2: Manual Steps
 ```bash
